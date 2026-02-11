@@ -130,6 +130,11 @@ Sauvegarde automatique de :
 3. **Programmation** : Automatiser l'éclairage selon un horaire quotidien
 4. **Persistance** : Retrouver ses réglages favoris à chaque ouverture
 
+
+<p align="center">
+   <img src="screenshots/toggle-light.jpg" width="200" alt=""/>
+ </p> 
+
 ## 📚 Apprentissages techniques
 
 Ce projet m'a permis de maîtriser :
@@ -165,3 +170,6 @@ Ce projet est libre d'utilisation à des fins éducatives et de portfolio.
 ---
 
 ⭐ Si ce projet vous a plu, n'hésitez pas à lui donner une étoile sur GitHub !
+
+
+---\n📅 Dernière mise à jour : 11/02/2026
