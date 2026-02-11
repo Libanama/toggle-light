@@ -43,7 +43,7 @@ Toggle Light est une application de gestion de lumière connectée permettant de
 
 1. **Cloner le projet**
 ```bash
-git clone https://github.com/Libanama/toggle_light.git
+git clone https://github.com/Libanama/toggle-light.git
 cd toggle_light
 ```
 
